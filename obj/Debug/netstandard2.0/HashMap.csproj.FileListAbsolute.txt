@@ -1,0 +1,9 @@
+D:\Custouch\Custouch.WesiteBackend\HashMap\bin\Debug\netstandard2.0\HashMap.deps.json
+D:\Custouch\Custouch.WesiteBackend\HashMap\bin\Debug\netstandard2.0\HashMap.dll
+D:\Custouch\Custouch.WesiteBackend\HashMap\bin\Debug\netstandard2.0\HashMap.pdb
+D:\Custouch\Custouch.WesiteBackend\HashMap\obj\Debug\netstandard2.0\HashMap.csprojAssemblyReference.cache
+D:\Custouch\Custouch.WesiteBackend\HashMap\obj\Debug\netstandard2.0\HashMap.AssemblyInfoInputs.cache
+D:\Custouch\Custouch.WesiteBackend\HashMap\obj\Debug\netstandard2.0\HashMap.AssemblyInfo.cs
+D:\Custouch\Custouch.WesiteBackend\HashMap\obj\Debug\netstandard2.0\HashMap.csproj.CoreCompileInputs.cache
+D:\Custouch\Custouch.WesiteBackend\HashMap\obj\Debug\netstandard2.0\HashMap.dll
+D:\Custouch\Custouch.WesiteBackend\HashMap\obj\Debug\netstandard2.0\HashMap.pdb
